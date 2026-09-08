@@ -1,4 +1,3 @@
-export {};
 const score = 85;
 const missedSessions = 0;
 const askedForHelp = false;
